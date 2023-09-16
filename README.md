@@ -1,6 +1,9 @@
 ## File-Hider
 The project is creating a system for concealing and revealing files. Initially, users are required to complete a signup process before gaining access to the system. Both the signup and login procedures mandate the user to enter a one-time verification code sent to their email for authentication. Once authenticated, users can utilize the system to search for concealed files, hide new files by specifying their file paths, and reveal previously hidden files. When a file is concealed, it becomes invisible within the system, and when it's revealed, it reappears in its original location.
 
+## Language:
+- JAVA
+
 ## Screenshots
 ![WhatsApp Image 2023-09-16 at 16 25 07](https://github.com/arnab082/File-Hider/assets/109888029/3939d38f-d2b9-47b3-a51b-744eb53aa65a)
 ####
